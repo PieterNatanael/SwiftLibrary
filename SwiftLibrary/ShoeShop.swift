@@ -83,7 +83,7 @@ struct ShoeListView: View {
 }
 
 // MARK: - View (ShoeDetailView)
-
+//just testing
 struct ShoeDetailView: View {
     let shoe: Shoe
     
